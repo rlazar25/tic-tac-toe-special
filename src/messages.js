@@ -9,7 +9,9 @@
   "Znaš li... ❓",
   "Sve je svemir od kad sreli smo se mi 🌌✨",
   "Kako si lepa 😍🌸",
-  "To su tvoje oči pune ljubavi 👁️💓"
+  "To su tvoje oči pune ljubavi 👁️💓",
+  "Ti si moj Tesla ⚡",
+  "Kale voli te Lale 🌷🌸"
   ]
 
 
