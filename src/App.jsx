@@ -62,7 +62,7 @@ const App = () => {
     <div className="app">
       {winner ?
         <div className="loveScreen">
-          <h1 className="loveText">{messages[8]}</h1>
+          <h1 className="loveText">{messages[msgIndex]}</h1>
           <button onClick={handleResetGame} className="restartBtn">Igraj ponovo</button>
         </div> :
         <div className="squareContainer">
