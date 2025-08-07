@@ -1,5 +1,6 @@
 import { useState } from "react"
 import CellComponent from "./components/CellComponent";
+import messages from "./messages";
 
 const App = () => {
 
@@ -54,12 +55,14 @@ const App = () => {
     setWinner(null);
   }
 
+  const msgIndex = Math.floor(Math.random() * messages.length);
+  console.log(messages);
+  
   return (
     <div className="app">
       {winner ?
         <div className="loveScreen">
-          <div className="hearts-bg"></div>
-          <h1 className="loveText">Volim Te 💖</h1>
+          <h1 className="loveText">{messages[8]}</h1>
           <button onClick={handleResetGame} className="restartBtn">Igraj ponovo</button>
         </div> :
         <div className="squareContainer">
