@@ -1,4 +1,4 @@
- const messages = [
+const messages = [
   "Volim Te 💖",
   "Ti si moje pile 🐣💕",
   "Ti si moje mače 🐱💗",
@@ -11,9 +11,9 @@
   "Kako si lepa 😍🌸",
   "To su tvoje oči pune ljubavi 👁️💓",
   "Ti si moj Tesla ⚡",
-  "Kale voli te Lale 🌷🌸"
-  ]
+  "Kale voli te Lale 🌷🌸",
+  "Ti si moj sve(mir) 🌌💫",
+  "Moja smal boginja 💕",
+];
 
-
-
-export default messages
+export default messages;
